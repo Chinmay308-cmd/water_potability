@@ -1,0 +1,9 @@
+format: jb-book
+root: content/index
+
+chapters:
+  - file: content/resume
+  - file: content/code_section
+    sections:
+      - file: content/notebooks/Water_Potability
+  - file: content/links

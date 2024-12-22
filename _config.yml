@@ -1,0 +1,22 @@
+title: "Water Potability"
+author: ""
+logo: ""
+execute:
+  execute_notebooks: "off"
+
+myst_enable_extensions:
+  - linkify
+  - jupyter
+
+html:
+  output_folder: docs
+  baseurl: /Water_Potability_book_1/
+  use_repository_button: true
+
+repository:
+  url: https://github.com/Chinmay308-cmd/water_potability
+  path_to_book: ./
+  branch: main
+
+
+
